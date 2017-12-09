@@ -11,7 +11,7 @@ function distanceTravelledInFeet (start, distance) {
  return (Math.abs(distance - start)*264);
 }
 
-function calculatesFarePrice () {
+function calculatesFarePrice (start, destination) {
  return
 
 }
